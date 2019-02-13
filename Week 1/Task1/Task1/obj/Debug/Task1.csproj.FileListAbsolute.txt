@@ -1,0 +1,6 @@
+C:\Users\Аружан\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\Аружан\source\repos\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\Аружан\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\Аружан\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Аружан\source\repos\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\Аружан\source\repos\Task1\Task1\obj\Debug\Task1.pdb
